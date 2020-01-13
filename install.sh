@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Start install docker-ce"
 
 curl -fsSL https://get.docker.com | bash
