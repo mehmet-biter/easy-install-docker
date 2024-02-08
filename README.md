@@ -5,5 +5,5 @@ There is easy way to install complete docker toolkit for linux include `docker-c
 ## Usage:
 
 ```shell
-curl -fsSL https://raw.githubusercontent.com/huuhait/easy-install-docker/master/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mehmet-biter/easy-install-docker/master/install.sh | bash
 ```
